@@ -1,0 +1,1 @@
+# amd-ocr-challenge
