@@ -1,0 +1,9 @@
+models/
+output/
+test_images/
+benchmark_10.py
+benchmark_app.py
+test_app.py
+test_ocr.py
+.git/
+.gitignore
